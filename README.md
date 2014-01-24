@@ -8,4 +8,4 @@ Actualmente:
 * Integración de un Banner Simple. 
  
 ## Licencia
-El codigo fuente está bajo licencia Apache 2.0 [link](http://www.apache.org/licenses/LICENSE-2.0.html).
+El codigo fuente está bajo licencia  [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
