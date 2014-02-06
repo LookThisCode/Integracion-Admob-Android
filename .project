@@ -30,4 +30,11 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>res/drawable-hdpi/admob_logo_sm.png</name>
+			<type>1</type>
+			<location>/Users/nickbortolotti/Pictures/Admob/admob_logo_sm.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>

@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/Banners" android:enabled="true" android:visible="true" android:titleCondensed="Banners">
+        <menu>
+            <item android:id="@+id/item1" android:visible="true" android:title="@string/Ejemplo1" android:enabled="true" android:titleCondensed="Ejemplo 1"/>
+            <item android:id="@+id/item2" android:visible="true" android:titleCondensed="Ejemplo 2" android:enabled="true" android:title="@string/Ejemplo2"/>
+        </menu>
+    </item>
+
+</menu>

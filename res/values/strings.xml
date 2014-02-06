@@ -4,5 +4,13 @@
     <string name="app_name">banner_example_admob</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Test de Banner</string>
+    <string name="title_activity_main">Main</string>
+    <string name="Banners">Banners</string>
+    <string name="Ejemplo1">Ejemplo1</string>
+    <string name="AdmobDemo">Admob Demo</string>
+    <string name="Ejemplo2">Ejemplo 2</string>
+    <string name="logoadmob">logo</string>
+    <string name="title_activity_simple__banner_xml">Simple_Banner_xml</string>
+    <string name="MensajeHome">"Utilice el menu para visualizar las demostraciones de integracion "</string>
 
 </resources>

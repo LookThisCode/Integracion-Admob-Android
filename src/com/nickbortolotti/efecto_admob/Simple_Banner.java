@@ -2,9 +2,8 @@ package com.nickbortolotti.efecto_admob;
 
 import android.os.Bundle;
 import android.app.Activity;
-import android.view.Menu;
 
-import com.example.banner_example_admob.R;
+
 import com.google.android.gms.ads.AdRequest; //imports para el banner
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
@@ -15,7 +14,7 @@ public class Simple_Banner extends Activity {
 	
 	private AdView vista;
 	
-	private static final String adId = "ad_unit_id";  //Se debe colocar el id del banner a visualizar.
+	private static final String adId = "Banner_Id";  //Se debe colocar el id del banner a visualizar.
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -74,13 +73,5 @@ public class Simple_Banner extends Activity {
 	    super.onDestroy();
 	  }
 
-	@Override
-	public boolean onCreateOptionsMenu(Menu menu) {
-		// Inflate the menu; this adds items to the action bar if it is present.
-		getMenuInflater().inflate(R.menu.banner, menu);
-		return true;
-		
-		
-	}
 
 }

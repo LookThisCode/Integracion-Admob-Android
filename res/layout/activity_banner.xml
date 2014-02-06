@@ -8,17 +8,10 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".Simple_Banner" >
 
-    <TextView
-        android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
-
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/textView1"
         android:layout_alignParentBottom="true"
         android:orientation="vertical" >
 
